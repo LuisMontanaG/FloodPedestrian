@@ -6,7 +6,6 @@ examples_private/
 bin_private/
 examples/**/x64
 *.obj
-**/bin/**
 **/dynamic/*.cu
 **/dynamic/*.h
 **/dynamic/*.c
